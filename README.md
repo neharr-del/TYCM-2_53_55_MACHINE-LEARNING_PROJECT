@@ -123,13 +123,13 @@ Smart-Face-Recognition-Attendance-System
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart-Face-Recognition-Attendance-System.git
+git clone https://github.com/YOUR_USERNAME/TYCM-2_53_55_MACHINE-LEARNING_PROJECT.git
 ```
 
 Go inside the project
 
 ```bash
-cd Smart-Face-Recognition-Attendance-System
+cd TYCM-2_53_55_MACHINE-LEARNING_PROJECT
 ```
 
 Create a virtual environment
