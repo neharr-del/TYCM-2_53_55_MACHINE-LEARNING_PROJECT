@@ -196,31 +196,36 @@ Attendance is automatically stored in SQLite.
 
 ## Home Page
 
-> *(Add Screenshot Here)*
+> <img width="1468" height="750" alt="Screenshot 2026-08-07 020714" src="https://github.com/user-attachments/assets/6a76b6cd-7185-42fe-a1fe-1ce191a94bef" />
+
 
 ---
 
 ## Student Registration
 
-> *(Add Screenshot Here)*
+> <img width="1430" height="738" alt="Screenshot 2026-08-07 020704" src="https://github.com/user-attachments/assets/8855e831-c4a6-476e-8b82-694a82674429" />
+
 
 ---
 
 ## Model Training
 
-> *(Add Screenshot Here)*
+> <img width="1458" height="753" alt="Screenshot 2026-08-07 020727" src="https://github.com/user-attachments/assets/26bc7f5e-6093-4cf9-923a-1e8bdc38da11" />
+
 
 ---
 
 ## Live Recognition
 
-> *(Add Screenshot Here)*
+> <img width="1486" height="752" alt="Screenshot 2026-08-07 141304" src="https://github.com/user-attachments/assets/1a142c7c-e708-4b23-900b-06463434fb25" />
+
 
 ---
 
 ## Attendance Records
 
-> *(Add Screenshot Here)*
+> <img width="1353" height="746" alt="Screenshot 2026-08-07 141337" src="https://github.com/user-attachments/assets/618f12d9-f95c-4b02-9583-ad87d207c96b" />
+
 
 ---
 
