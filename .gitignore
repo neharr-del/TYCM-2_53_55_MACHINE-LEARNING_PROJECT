@@ -1,0 +1,30 @@
+# Virtual Environments
+venv/
+.venv/
+.venv-1/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database
+attendance.db
+
+# Trained Model
+model.pkl
+
+# Dataset Images
+dataset/*
+
+# Keep the dataset folder itself
+!dataset/.gitkeep
+
+# VS Code Settings
+.vscode/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
