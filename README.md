@@ -217,7 +217,7 @@ Attendance is automatically stored in SQLite.
 
 ## Live Recognition
 
-> <img width="1486" height="752" alt="Screenshot 2026-08-07 141304" src="https://github.com/user-attachments/assets/1a142c7c-e708-4b23-900b-06463434fb25" />
+> <img width="923" height="405" alt="image" src="https://github.com/user-attachments/assets/e27f029d-db3f-4a98-981d-30bb3ab92e20" />
 
 
 ---
